@@ -1,15 +1,13 @@
 # 🐙 OctoFlow AI
-<p align="center">
-  <img src="docs/images/banner.png" width="820">
-</p>
+
 
 **8 arms. 1 flow. Infinite alpha.**  
 On-chain + socials + liquidity + whales → one stream of alpha.  
 Built natively on **Solana**.
-
 <p align="center">
-  <img src="docs/images/octoflow-banner.png" width="820">
+  <img src="docs/images/banner.png" width="820">
 </p>
+
 
 ## 🌊 Overview
 OctoFlow AI is a **Solana-native intelligence engine** that unifies:
